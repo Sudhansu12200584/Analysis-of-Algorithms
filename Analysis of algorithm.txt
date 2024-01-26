@@ -1,0 +1,37 @@
+Week 1 (Analysis of algorithms
+
+Question 1
+What is the order of growth of the solution to the Quicksort-like recurrence 
+Fn = 2N + 1 + 1/N ∑ 1<=k<=N (Fk-1 + FN-k) with F0 = 0?
+
+Answer:-
+NlogN
+
+
+Question 2
+Which of the following is a drawback to analyzing algorithms by proving O- upper bounds on the worst case?
+
+Answer:-
+Generally cannot be used to predict performance.
+Generally cannot be used to compare algorithms.
+
+Week 2 (Recurrences)
+
+Question 1
+Which of the following is true of the number of comparisons used by Mergesort?
+
+Answers:-
+Is less than N lg N + N/4 for all N
+
+Has periodic behavior
+
+Exactly N lg N when N is a power of 2
+
+Order of growth is N lg N
+
+Question 2
+Suppose that nan = (n−3)an−1+n for n>2 with a0=a1=a2=0. What is the value of a999 ?
+
+Answer:-
+250
+
